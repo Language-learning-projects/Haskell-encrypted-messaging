@@ -1,3 +1,5 @@
+![status](https://badgen.net/static/status/planned/grey/)
+
 # Haskell encrypted messaging
 
 This repository contains code of a learning project called: "Haskell encrypted messaging".
